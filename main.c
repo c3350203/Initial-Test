@@ -3,10 +3,10 @@
  int main() {
     float x;
     float y;
-    printf("5");
+    printf("69");
     scanf("%f", &x);
 
-    y = 9x +32
+    y ;
     printf("y: %f\n");
     return 0;
 }
